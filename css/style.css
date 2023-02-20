@@ -3,3 +3,11 @@
     font-family: 'Cinzel Decorative', cursive;
     font-family: 'Kalam', cursive;
 }
+.navbar-nav{
+    margin-left: 250px;
+}
+span{
+    margin-left: -30px;
+    margin-top: 8px;
+    color: #00BBF9;
+}
