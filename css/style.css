@@ -1,13 +1,20 @@
 .q1{
     background-image: url(https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/Fish-aquarium-shop-in-dubai-_-Cover-ar-29-8-22.jpg);
     font-family: 'Cinzel Decorative', cursive;
-    font-family: 'Kalam', cursive;
+    
 }
 .navbar-nav{
-    margin-left: 250px;
+    margin-left: 170px;
 }
 span{
     margin-left: -30px;
     margin-top: 8px;
     color: #00BBF9;
+}
+.navbar{
+    padding-top: 20px;
+}
+.navbar-brand{
+    font-weight: 600;
+    font-size: 25px;
 }
