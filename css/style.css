@@ -57,18 +57,21 @@ margin-top: 80px;
     margin-left: -30px;
 }
 .q10{
-    font-weight: 600;
-    font-size: 25px;
+    font-weight: 700;
+    font-size: 28px;
 }
 .q12{
     font-family: 'Cinzel Decorative', cursive;
 }
 .w3{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 .w2{
     color: #9AA4A2;
-    font-weight: 600;
+    font-weight: 900;
     font-size: 12px;
 
+}
+.w31{
+    margin-left: -45px;
 }
