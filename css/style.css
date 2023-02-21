@@ -42,10 +42,13 @@ span{
 margin-top: 80px;
 }
 .q4{
-    color: beige;
+    color: white;
     font-weight: 600;
+    font-size: 25px;
+    margin-top: 110px;
 }
 .q5{
-    color: beige;
+    color: white;
     font-weight: 800;
+    font-size: 50px;
 }
