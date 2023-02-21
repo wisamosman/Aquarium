@@ -31,3 +31,21 @@ span{
 .q3{
     color: #00BBF9;
 }
+.q6{
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    background-color: #00BBF9;
+}
+.q7{
+    
+margin-top: 80px;
+}
+.q4{
+    color: beige;
+    font-weight: 600;
+}
+.q5{
+    color: beige;
+    font-weight: 800;
+}
