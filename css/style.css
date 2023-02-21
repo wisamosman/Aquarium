@@ -109,6 +109,10 @@ font-weight: 700;
 .t5{
     background-color: #F77F00;
     color: white;
+    padding: 5px 0px 5px 18px;
+    margin-left: -35px;
+    margin-top: 50px;
+    
 }
 .t10{
     height: 525px;
