@@ -95,10 +95,12 @@ font-weight: 700;
 }
 .e22{
     color: white;
-    font-weight: 700;font-size: 27px;
+    font-weight: 700;
+    font-size: 27px;
 }
 .t2{
     font-weight: 700;
+    margin-top: 100px;
 }
 .t3{
     color: #9AA4A2;
@@ -107,4 +109,11 @@ font-weight: 700;
 .t5{
     background-color: #F77F00;
     color: white;
+}
+.t10{
+    height: 525px;
+    width: 550px;
+}
+.y1{
+    font-family: 'Cinzel Decorative', cursive;
 }
