@@ -4,7 +4,7 @@
     
 }
 .navbar-nav{
-    margin-left: 170px;
+    margin-left: 70px;
 }
 span{
     margin-left: -30px;
@@ -17,4 +17,14 @@ span{
 .navbar-brand{
     font-weight: 600;
     font-size: 25px;
+}
+.nav-link{
+    font-weight: 600;
+    font-size: 18px;
+}
+.form-control{
+    font-weight: 500;
+}
+.q3{
+    color: #00BBF9;
 }
